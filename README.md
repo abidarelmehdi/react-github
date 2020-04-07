@@ -9,7 +9,7 @@ A valid GitHub Username
 
 ## Output
 
-A components contains the user's info (Joining Date, Name, Followers, Github Account, Number of repos)
+A component contains the user's info (Joining Date, Name, Followers, Github Account, Number of repos)
 
 ### `npm start`
 
